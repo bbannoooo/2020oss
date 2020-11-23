@@ -1,2 +1,2 @@
 another file from TUT
-오늘은 11월 24일 입니다.
+내일은 11월 25일 입니다.
